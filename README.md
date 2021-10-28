@@ -4,7 +4,7 @@
 
 - I play bass for an emo band called Live Well. 🎸 🚌
 - Graduated from the Flatiron School Software Engineering program.
-- Currently working as a Technical Coach for the School.
+- Currently working as a Technical Coach for the Flatiron School.
 - Seeking full time employment as a Software Engineer.
 
 #### Languages & Tools
